@@ -1,0 +1,3 @@
+[submodule "recipe_box_scripts"]
+	path = recipe_box_scripts
+	url = git://github.com/droquo/documents_to_dbs.git
